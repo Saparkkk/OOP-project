@@ -6,5 +6,6 @@
   * name: Natthaset Jantarasorn
 - technology:[streamlit]
 - application description:
-* presenttation: [slide/canva]
+* presenttation: [slide/canva/etc...] link [public/ubu]
+* video: link[public/ubu]
 * xoxoxo
